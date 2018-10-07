@@ -8,7 +8,7 @@ public class Employee {
 
 	public static final String company = "A&M Technologies";
 
-	// This is the constructor of the class Employee
+	// This is the constructor of the class Employee kjkjkj
 	public Employee(int empID) {
 		this.empID = empID;
 	}
